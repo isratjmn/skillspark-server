@@ -1,0 +1,67 @@
+[
+	{
+		"title": "Great school with excellent programs!",
+		"desc": "The Social Sciences Institute explores human behavior and society through interdisciplinary research.",
+		"cover": "https://i.ibb.co/BBJVqRM/client1-free-img.png",
+		"clientName": "John Doe",
+		"address": "Berlin, Germany",
+		"date": "2022-04-18"
+	},
+	{
+		"title": "Loved the artistic atmosphere!",
+		"desc": "Music Conservatory is dedicated to nurturing musical abilities and fostering artistic expression.",
+		"cover": "https://i.ibb.co/hVnLg4w/client2-free-img.png",
+		"clientName": "Jane Smith",
+		"address": "Vienna, Austria",
+		"date": "2022-05-01"
+	},
+	{
+		"title": "Highly recommended for aspiring athletes!",
+		"desc": "The Culinary Academy is a gastronomic haven, cultivating culinary talents for the global food industry.",
+		"cover": "https://i.ibb.co/gFzQTNZ/client4-free-img.png",
+		"clientName": "David Wilson",
+		"address": "Paris, France",
+		"date": "2022-05-01"
+	},
+	{
+		"title": "Innovative and inspiring!",
+		"desc": "The Business School offers comprehensive business programs, shaping future leaders and entrepreneurs.",
+		"cover": "https://i.ibb.co/gFzQTNZ/client4-free-img.png",
+		"clientName": "Ava Smith",
+		"address": "Toronto, Canada",
+		"date": "2022-05-01"
+	},
+	{
+		"title": "Top-notch culinary training!",
+		"desc": "The Sports Academy is a hub of talent, providing top-notch training facilities for aspiring athletes.",
+		"cover": "https://i.ibb.co/kJ0X5x3/client3-free-img.png",
+
+		"clientName": "Olivia Martinez",
+		"address": "Texas, USA",
+		"date": "2022-10-01"
+	},
+	{
+		"title": "Impressed by their research focus.",
+		"desc": "Global Arts Academy celebrates diversity and nurtures artistic talents through world-class training.",
+		"cover": "https://i.ibb.co/kJ0X5x3/client3-free-img.png",
+		"clientName": "Emily Brown",
+		"address": "London, UK",
+		"date": "2022-07-01"
+	},
+	{
+		"title": "A music lover's paradise!",
+		"desc": "At Innovate Institute, innovation is at the core of everything we do, fostering creative thinking and problem-solving.",
+		"cover": "https://i.ibb.co/hVnLg4w/client2-free-img.png",
+		"clientName": "Sophia Lee",
+		"address": "New York, USA",
+		"date": "2022-02-01"
+	},
+	{
+		"title": "Cutting-edge tech courses!",
+		"desc": "Techtonic University offers cutting-edge technology courses and empowers students to become industry leaders.",
+		"cover": "https://i.ibb.co/BBJVqRM/client1-free-img.png",
+		"clientName": "Michael Johnson",
+		"address": "California, USA",
+		"date": "2022-02-01"
+	}
+]
